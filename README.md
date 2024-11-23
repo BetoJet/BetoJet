@@ -68,4 +68,12 @@ Sharing knowledge 📚 while exploring and growing in the tech world. 💡
 <!--- trophy (start) -->
 
 
+
+
 </p>        
+<p align="center">
+   <i>"Every line of code I write isn't just a solution; it's a step toward innovation, growth, and making technology work smarter for everyone.</i>
+
+
+
+</p>
