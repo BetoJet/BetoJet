@@ -6,11 +6,14 @@
 
 
 <p align="left">
-🌟 Software Engineering Student & Aspiring Creator 🌟
-Sharing knowledge 📚 while exploring and growing in the tech world. 💡
-
-💻 Skilled in C++, Java, Kotlin, and constantly improving my app designs to make them efficient and user-friendly. Familiar with React, XAMPP, and phpMyAdmin, always seeking opportunities to collaborate and grow. 🚀
-
+Software Engineering student with a strong focus on software development and a passion for integrating advanced
+technologies to deliver innovative solutions. Experienced in full-stack development, mobile applications, and web
+design, with a solid understanding of Agile development, microservice architecture, and process improvement.
+Demonstrated leadership in managing projects and driving results while fostering a collaborative and inclusive
+environment. Skilled in problemsolving, adaptability, and clear communication, always eager to contribute and
+grow within dynamic tech teams. Motivated to further explore data analytics, front-end development, and
+emerging tech fields.
+  
 🎯 Roles and goals: student, self-taught developer, aspiring bilingual translator, and app creator. Continuously learning new technologies and ready for what’s next in the journey. 😉
 
 📫 Contact: **josealberto5441@gmail.com**
